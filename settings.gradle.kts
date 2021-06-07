@@ -1,2 +1,2 @@
 rootProject.name = "IQ Trivia"
-include ':app'
+include(":app")
